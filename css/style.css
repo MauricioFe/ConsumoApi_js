@@ -46,10 +46,13 @@ h1{
     margin-right: 15px;
     outline: none;
     border: none;
-    box-shadow: 0px 2px 2px 0 #26a69a;
     background:#26a69a;
     color: white;
     border-radius: 5px;
+    cursor: pointer;
+}
+.red{
+    background: darkred;
 }
 .flagCountry{
     width: 50px;
